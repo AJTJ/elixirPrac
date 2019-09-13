@@ -1,7 +1,7 @@
 # Elixir notes
 
 ## Currently working on:
-https://elixir-lang.org/getting-started/basic-types.html
+https://elixir-lang.org/getting-started/basic-types.html#lists-or-tuples
 
 ## Interactive Elixir
 
